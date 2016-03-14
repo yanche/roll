@@ -1,6 +1,6 @@
-Hub
+ROLL
 =
-ROLL is made to run a bunch of tasks concurrently & gracefully, to avoid traffic jam
+This module is made to run a bunch of tasks concurrently & gracefully, to avoid traffic jam
 
 Example
 -
