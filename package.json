@@ -1,0 +1,19 @@
+{
+  "name": "croll",
+  "version": "1.0.0",
+  "description": "This module is made to run a bunch of tasks concurrently & gracefully, to avoid traffic jam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanche/roll.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanche/roll/issues"
+  },
+  "homepage": "https://github.com/yanche/roll#readme"
+}
